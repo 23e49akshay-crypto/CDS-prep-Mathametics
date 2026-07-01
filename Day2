@@ -1,0 +1,1613 @@
+CDS Mathematics Training – Day 2 (Continued)
+Trigonometry (Q55–Q68)
+
+Difficulty: Medium–Hard (CDS Standard)
+
+Today's questions are completely new.
+
+Q55
+
+Evaluate:
+
+sin60
+∘
++cos30
+∘
+
+A) √3
+
+B) √2
+
+C) 1
+
+D) 2
+
+✅ Answer: A) √3
+
+Explanation
+sin60
+∘
+=
+2
+3
+	​
+
+	​
+
+,cos30
+∘
+=
+2
+3
+	​
+
+	​
+
+
+Sum
+
+=
+2
+3
+	​
+
+	​
+
++
+2
+3
+	​
+
+	​
+
+=
+3
+	​
+
+
+⭐ CDS Short Trick
+
+Remember:
+
+sin60° = cos30°
+
+Q56
+
+The value of
+
+tan30
+∘
+×tan60
+∘
+
+A) 0
+
+B) 1
+
+C) √3
+
+D) 3
+
+✅ Answer: B) 1
+
+Explanation
+tan30
+∘
+=
+3
+	​
+
+1
+	​
+
+tan60
+∘
+=
+3
+	​
+
+
+Product =1
+
+⭐ Short Trick
+
+30° and 60° are reciprocals.
+
+Q57
+
+Find
+
+sin45
+∘
++cos45
+∘
+
+A)1
+
+B)√2
+
+C)2
+
+D)1/2
+
+✅ Answer: B) √2
+
+Explanation
+2
+	​
+
+1
+	​
+
++
+2
+	​
+
+1
+	​
+
+=
+2
+	​
+
+2
+	​
+
+=
+2
+	​
+
+
+⭐ Short Trick
+
+Two equal values ⇒ Double one of them.
+
+Q58
+
+The value of
+
+sec0
+∘
+
+A)0
+
+B)1
+
+C)2
+
+D)Undefined
+
+✅ Answer: B) 1
+
+Explanation
+cos0
+∘
+=1
+sec0
+∘
+=1
+
+⭐ Short Trick
+
+sec = 1/cos
+
+Q59
+
+If
+
+cosθ=
+5
+4
+	​
+
+
+where θ is acute, then
+
+sinθ=
+
+A)3/5
+
+B)4/5
+
+C)5/4
+
+D)1/5
+
+✅ Answer: A) 3/5
+
+Explanation
+
+Using
+
+sin
+2
+θ+cos
+2
+θ=1
+sinθ=
+5
+3
+	​
+
+
+⭐ Short Trick
+
+Recognize the 3–4–5 triangle.
+
+Q60
+
+Evaluate
+
+cot45
+∘
++tan45
+∘
+
+A)1
+
+B)2
+
+C)3
+
+D)4
+
+✅ Answer: B) 2
+
+Explanation
+
+Both are 1.
+
+1+1=2
+
+⭐ Short Trick
+
+At 45°
+
+All reciprocal ratios are equal to 1.
+
+Q61
+
+Find
+
+sin90
+∘
+×cos0
+∘
+
+A)0
+
+B)1
+
+C)2
+
+D)Undefined
+
+✅ Answer: B) 1
+
+Explanation
+
+1×1=1
+
+⭐ Short Trick
+
+Memorize
+
+sin90=1
+
+cos0=1
+
+Q62
+
+A tower is 30 m high.
+
+Angle of elevation is 45°.
+
+Distance from observer?
+
+A)20 m
+
+B)25 m
+
+C)30 m
+
+D)35 m
+
+✅ Answer: C) 30 m
+
+Explanation
+tan45
+∘
+=
+x
+30
+	​
+
+
+x=30
+
+⭐ Short Trick
+
+45°
+
+Height = Base
+
+Q63
+
+The value of
+
+1+cot
+2
+30
+∘
+
+A)2
+
+B)3
+
+C)4
+
+D)5
+
+✅ Answer: C) 4
+
+Explanation
+cot30
+∘
+=
+3
+	​
+
+1+3=4
+
+⭐ Short Trick
+
+Remember
+
+1+cot
+2
+θ=cosec
+2
+θ
+Q64
+
+A ladder 17 m long reaches the top of a wall.
+
+Its foot is 8 m away.
+
+Height?
+
+A)13 m
+
+B)15 m
+
+C)16 m
+
+D)18 m
+
+✅ Answer: B) 15 m
+
+Explanation
+17
+2
+=8
+2
++h
+2
+
+289−64=225
+
+h=15
+
+⭐ Short Trick
+
+Recognize the 8–15–17 Pythagorean triplet.
+
+Q65
+
+Find
+
+tan60
+∘
++cot60
+∘
+
+A)2
+
+B)
+3
+	​
+
+4
+	​
+
+
+C)
+3
+	​
+
+4
+	​
+
+?
+
+D)
+3
+	​
+
+4
+	​
+
+
+✅ Answer: B) 
+3
+	​
+
+4
+	​
+
+
+Explanation
+3
+	​
+
++
+3
+	​
+
+1
+	​
+
+=
+3
+	​
+
+4
+	​
+
+
+⭐ Short Trick
+
+Take LCM = √3.
+
+Q66
+
+The angle of elevation of the top of a building is 30°.
+
+Distance from building = 20√3 m.
+
+Height is
+
+A)10 m
+
+B)20 m
+
+C)30 m
+
+D)40 m
+
+✅ Answer: B) 20 m
+
+Explanation
+tan30
+∘
+=
+20
+3
+	​
+
+h
+	​
+
+3
+	​
+
+1
+	​
+
+=
+20
+3
+	​
+
+h
+	​
+
+
+h=20
+
+⭐ Short Trick
+
+For 30°
+
+Height = Base ÷ √3
+
+Q67
+
+The value of
+
+sin0
+∘
++cos90
+∘
+
+A)0
+
+B)1
+
+C)2
+
+D)Undefined
+
+✅ Answer: A) 0
+
+Explanation
+
+0+0=0
+
+⭐ Short Trick
+
+Remember
+
+sin0=0
+
+cos90=0
+
+Q68
+
+If
+
+tanθ=
+3
+	​
+
+
+then θ equals
+
+A)30°
+
+B)45°
+
+C)60°
+
+D)90°
+
+✅ Answer: C) 60°
+
+Explanation
+
+Standard value.
+
+⭐ Short Trick
+
+Learn these three forever:
+
+tan30° = 1/√3
+tan45° = 1
+tan60° = √3
+📖 CDS Quick Revision
+Standard Values
+θ	sin	cos	tan
+0°	0	1	0
+30°	1/2	√3/2	1/√3
+45°	1/√2	1/√2	1
+60°	√3/2	1/2	√3
+90°	1	0	∞
+Most Important Identities
+sin²θ + cos²θ = 1
+1 + tan²θ = sec²θ
+1 + cot²θ = cosec²θ
+Pythagorean Triplets (Must Memorize)
+3–4–5
+5–12–13
+7–24–25
+8–15–17
+9–12–15
+
+These appear frequently in CDS.
+
+✅ Day 2 Progress
+✔ Geometry – 20 Questions
+✔ Number System – 18 Questions
+✔ Mensuration – 16 Questions
+✔ Trigonometry – 14 Questions
+
+Completed: 68 / 100 Questions
+
+Next:
+
+Questions 69–80: Algebra (12 NEW CDS-level MCQs) followed by Questions 81–100: Mixed Arithmetic (20 NEW MCQs) to complete Day 2.
+
+Continue
+CDS Mathematics Training – Day 2 (Continued)
+Algebra (Q69–Q80)
+
+Difficulty: Medium–Hard (CDS Standard)
+
+All questions are new and follow the CDS pattern.
+
+Q69
+
+Solve:
+
+x
+2
+−13x+40=0
+
+A) (4, 9)
+
+B) (5, 8)
+
+C) (6, 7)
+
+D) (2, 20)
+
+✅ Answer: B) (5, 8)
+
+Explanation
+x
+2
+−13x+40=(x−5)(x−8)
+
+Roots = 5, 8
+
+⭐ CDS Short Trick
+
+Find two numbers whose:
+
+Product = 40
+Sum = 13
+Q70
+
+If
+
+5x−17=38
+
+then x equals
+
+A) 9
+
+B) 10
+
+C) 11
+
+D) 12
+
+✅ Answer: C) 11
+
+Explanation
+
+5x = 55
+
+x = 11
+
+⭐ CDS Short Trick
+
+Move constants first, divide at the end.
+
+Q71
+
+Evaluate
+
+(a−b)
+2
+
+for a = 12, b = 5
+
+A) 49
+
+B) 59
+
+C) 64
+
+D) 81
+
+✅ Answer: A) 49
+
+Explanation
+
+(12−5)² = 7² = 49
+
+⭐ CDS Short Trick
+
+If values are given, substitute first instead of expanding.
+
+Q72
+
+The sum of the roots of
+
+2x
+2
+−9x+7=0
+
+is
+
+A) 9/2
+
+B) 7/2
+
+C) 2
+
+D) 9
+
+✅ Answer: A) 9/2
+
+Explanation
+
+Sum = −b/a
+
+= −(−9)/2
+
+= 9/2
+
+⭐ CDS Short Trick
+
+For ax² + bx + c = 0
+
+👉 Sum of roots = −b/a
+
+Q73
+
+The product of the roots of
+
+3x
+2
+−8x+4=0
+
+is
+
+A) 3/4
+
+B) 4/3
+
+C) 8/3
+
+D) 4
+
+✅ Answer: B) 4/3
+
+Explanation
+
+Product = c/a
+
+= 4/3
+
+⭐ CDS Short Trick
+
+Product = c/a
+
+Q74
+
+Simplify
+
+(4x
+3
+)(5x
+2
+)
+
+A) 20x⁵
+
+B) 9x⁵
+
+C) 20x⁶
+
+D) 25x⁵
+
+✅ Answer: A) 20x⁵
+
+Explanation
+
+4×5 = 20
+
+x³×x² = x⁵
+
+⭐ CDS Short Trick
+
+Same base ⇒ Add powers.
+
+Q75
+
+If
+
+x+
+x
+1
+	​
+
+=6
+
+find
+
+x
+2
++
+x
+2
+1
+	​
+
+
+A) 32
+
+B) 34
+
+C) 36
+
+D) 38
+
+✅ Answer: B) 34
+
+Explanation
+(x+
+x
+1
+	​
+
+)
+2
+=x
+2
++
+x
+2
+1
+	​
+
++2
+
+36 = x² + 1/x² + 2
+
+x² + 1/x² = 34
+
+⭐ CDS Short Trick
+
+Square first, then subtract 2.
+
+Q76
+
+Factorise
+
+x
+2
+−16
+
+A) (x−4)²
+
+B) (x+4)²
+
+C) (x−4)(x+4)
+
+D) (x−8)(x+2)
+
+✅ Answer: C) (x−4)(x+4)
+
+Explanation
+
+Difference of squares.
+
+⭐ CDS Short Trick
+
+Remember:
+
+a
+2
+−b
+2
+=(a+b)(a−b)
+Q77
+
+Solve
+
+3(x−4)=27
+
+A) 11
+
+B) 12
+
+C) 13
+
+D) 15
+
+✅ Answer: C) 13
+
+Explanation
+
+x−4 = 9
+
+x = 13
+
+⭐ CDS Short Trick
+
+Always divide before transposing if it makes the equation simpler.
+
+Q78
+
+If
+
+2
+x+1
+=64
+
+then x equals
+
+A) 4
+
+B) 5
+
+C) 6
+
+D) 7
+
+✅ Answer: B) 5
+
+Explanation
+
+64 = 2⁶
+
+x + 1 = 6
+
+x = 5
+
+⭐ CDS Short Trick
+
+Memorize powers:
+2⁵ = 32, 2⁶ = 64, 2⁷ = 128.
+
+Q79
+
+Expand
+
+(x−3)(x+7)
+
+A) x²+4x−21
+
+B) x²−4x−21
+
+C) x²+10x−21
+
+D) x²−10x+21
+
+✅ Answer: A) x²+4x−21
+
+Explanation
+
+x² + 7x − 3x − 21
+
+= x² + 4x − 21
+
+⭐ CDS Short Trick
+
+Middle term = Sum of cross-products.
+
+Q80
+
+If
+
+5
+2x
+	​
+
+−4=8
+
+then x equals
+
+A) 20
+
+B) 25
+
+C) 30
+
+D) 35
+
+✅ Answer: C) 30
+
+Explanation
+
+2x/5 = 12
+
+2x = 60
+
+x = 30
+
+⭐ CDS Short Trick
+
+Remove fractions by multiplying both sides by the denominator.
+
+📚 Algebra Quick Revision
+Important Identities
+(a+b)² = a² + 2ab + b²
+(a−b)² = a² − 2ab + b²
+a²−b² = (a+b)(a−b)
+(a+b)(a−b) = a²−b²
+Quadratic Formula
+x=
+2a
+−b±
+b
+2
+−4ac
+	​
+
+	​
+
+Root Properties
+Sum = −b/a
+Product = c/a
+✅ Day 2 Progress
+Topic	Completed
+Geometry	20/20
+Number System	18/18
+Mensuration	16/16
+Trigonometry	14/14
+Algebra	12/12
+
+Total Completed: 80 / 100 Questions
+
+Next:
+
+Questions 81–100: Mixed Arithmetic (20 NEW CDS-level MCQs) covering:
+
+Time & Work
+Time & Distance
+Ratio & Proportion
+Percentage
+Profit & Loss
+Simple & Compound Interest
+Average
+Partnership
+Statistics
+
+Each will include detailed solutions and a compulsory CDS short trick.
+
+Continue
+CDS Mathematics Training – Day 2 (Final Part)
+Mixed Arithmetic (Q81–Q100)
+
+Difficulty: Medium–Hard (CDS Standard)
+
+All questions are new and follow the latest CDS pattern.
+
+Time & Work
+Q81
+
+A can complete a work in 15 days and B in 10 days. If they work together, the work will be completed in:
+
+A) 5 days
+
+B) 6 days
+
+C) 7.5 days
+
+D) 8 days
+
+✅ Answer: B) 6 days
+
+Explanation
+
+A's one-day work = 1/15
+
+B's one-day work = 1/10
+
+Together = 1/15 + 1/10 = 5/30 = 1/6
+
+Time = 6 days
+
+⭐ CDS Short Trick
+
+For two people:
+
+a+b
+ab
+	​
+
+	​
+
+
+= (15 × 10)/(15 + 10) = 150/25 = 6 days
+
+Q82
+
+A is 3 times as efficient as B. If B finishes a work in 24 days, A alone will finish it in:
+
+A) 6 days
+
+B) 8 days
+
+C) 12 days
+
+D) 18 days
+
+✅ Answer: B) 8 days
+
+Explanation
+
+Efficiency ↑ ⇒ Time ↓
+
+24 ÷ 3 = 8 days
+
+⭐ Short Trick
+
+Time is inversely proportional to efficiency.
+
+Q83
+
+A pipe fills a tank in 20 hours. In 8 hours, it fills:
+
+A) 2/5
+
+B) 3/5
+
+C) 1/2
+
+D) 4/5
+
+✅ Answer: A) 2/5
+
+Explanation
+
+8/20 = 2/5
+
+⭐ Short Trick
+
+Fraction filled = Time ÷ Total Time.
+
+Time & Distance
+Q84
+
+A train covers 360 km in 4.5 hours. Its speed is:
+
+A) 75 km/h
+
+B) 80 km/h
+
+C) 85 km/h
+
+D) 90 km/h
+
+✅ Answer: B) 80 km/h
+
+Explanation
+
+Speed = Distance ÷ Time
+
+= 360 ÷ 4.5 = 80 km/h
+
+⭐ Short Trick
+
+Remove the decimal:
+
+3600 ÷ 45 = 80
+
+Q85
+
+Convert 90 km/h into m/s.
+
+A) 20
+
+B) 22.5
+
+C) 25
+
+D) 27.5
+
+✅ Answer: C) 25 m/s
+
+Explanation
+
+90 × 5/18 = 25 m/s
+
+⭐ Short Trick
+
+km/h → m/s = × 5/18
+
+Q86
+
+Two trains move in the same direction at 72 km/h and 54 km/h.
+
+Relative speed is:
+
+A) 18 km/h
+
+B) 20 km/h
+
+C) 26 km/h
+
+D) 126 km/h
+
+✅ Answer: A) 18 km/h
+
+Explanation
+
+Same direction ⇒ Subtract speeds
+
+72 − 54 = 18 km/h
+
+⭐ Short Trick
+
+Same direction → Subtract
+Opposite direction → Add
+Ratio & Proportion
+Q87
+
+The ratio of two numbers is 7 : 9. If their sum is 160, the smaller number is:
+
+A) 60
+
+B) 70
+
+C) 75
+
+D) 80
+
+✅ Answer: B) 70
+
+Explanation
+
+Total parts = 16
+
+One part = 160 ÷ 16 = 10
+
+Smaller = 7 × 10 = 70
+
+⭐ Short Trick
+
+One part = Total ÷ Sum of ratios.
+
+Q88
+
+₹840 is divided in the ratio 3 : 4 : 5. The largest share is:
+
+A) ₹210
+
+B) ₹280
+
+C) ₹350
+
+D) ₹420
+
+✅ Answer: C) ₹350
+
+Explanation
+
+Total parts = 12
+
+One part = 840 ÷ 12 = 70
+
+Largest = 5 × 70 = 350
+
+⭐ Short Trick
+
+Amount × Required ratio ÷ Total ratio.
+
+Percentage
+Q89
+
+35% of 480 is:
+
+A) 158
+
+B) 168
+
+C) 178
+
+D) 188
+
+✅ Answer: B) 168
+
+Explanation
+
+480 × 35/100 = 168
+
+⭐ Short Trick
+
+10% = 48
+
+30% = 144
+
+5% = 24
+
+Total = 168
+
+Q90
+
+The price of an article decreases by 15% from ₹800. The new price is:
+
+A) ₹660
+
+B) ₹670
+
+C) ₹680
+
+D) ₹690
+
+✅ Answer: C) ₹680
+
+Explanation
+
+15% of 800 = 120
+
+800 − 120 = 680
+
+⭐ Short Trick
+
+85% of 800 = 8 × 85 = 680
+
+Profit & Loss
+Q91
+
+A shopkeeper buys an article for ₹1200 and sells it for ₹1380. Profit percentage is:
+
+A) 12%
+
+B) 15%
+
+C) 18%
+
+D) 20%
+
+✅ Answer: B) 15%
+
+Explanation
+
+Profit = 180
+
+180/1200 × 100 = 15%
+
+⭐ Short Trick
+
+Profit% = Profit ÷ Cost Price × 100
+
+Q92
+
+An article is sold at 20% loss. If its cost price is ₹1500, the selling price is:
+
+A) ₹1100
+
+B) ₹1150
+
+C) ₹1200
+
+D) ₹1250
+
+✅ Answer: C) ₹1200
+
+Explanation
+
+80% of 1500 = 1200
+
+⭐ Short Trick
+
+20% loss ⇒ Multiply by 0.8
+
+Simple Interest
+Q93
+
+Find the simple interest on ₹8000 for 3 years at 6% per annum.
+
+A) ₹1240
+
+B) ₹1340
+
+C) ₹1440
+
+D) ₹1540
+
+✅ Answer: C) ₹1440
+
+Explanation
+
+SI = PRT/100
+
+= 8000 × 6 × 3 /100
+
+= ₹1440
+
+⭐ Short Trick
+
+Cancel zeros before multiplying.
+
+Q94
+
+The amount after Simple Interest is ₹11,500. Principal = ₹10,000.
+
+Interest earned is:
+
+A) ₹1200
+
+B) ₹1300
+
+C) ₹1400
+
+D) ₹1500
+
+✅ Answer: D) ₹1500
+
+Explanation
+
+Interest = Amount − Principal
+
+= 11,500 − 10,000
+
+= ₹1500
+
+⭐ Short Trick
+
+Amount − Principal = SI
+
+Compound Interest
+Q95
+
+₹2000 is invested at 10% per annum for 2 years (compounded annually). The amount is:
+
+A) ₹2400
+
+B) ₹2420
+
+C) ₹2440
+
+D) ₹2450
+
+✅ Answer: B) ₹2420
+
+Explanation
+
+Amount = 2000 × (1.1)²
+
+= 2000 × 1.21
+
+= ₹2420
+
+⭐ Short Trick
+
+For 2 years:
+
+Multiply by 1.21 directly when rate is 10%.
+
+Average
+Q96
+
+The average of 18, 22, 26, 30, 34 is:
+
+A) 24
+
+B) 26
+
+C) 28
+
+D) 30
+
+✅ Answer: B) 26
+
+Explanation
+
+These are equally spaced numbers.
+
+Average = Middle term = 26
+
+⭐ Short Trick
+
+For equally spaced numbers, average = Middle term.
+
+Statistics
+Q97
+
+Find the median of:
+
+5, 8, 12, 15, 20, 24, 28
+
+A) 12
+
+B) 15
+
+C) 20
+
+D) 24
+
+✅ Answer: B) 15
+
+Explanation
+
+There are 7 observations.
+
+Median = 4th observation = 15
+
+⭐ Short Trick
+
+Odd number of observations ⇒ Median = Middle value.
+
+Q98
+
+Find the mode:
+
+3, 5, 5, 7, 8, 8, 8, 10
+
+A) 5
+
+B) 7
+
+C) 8
+
+D) 10
+
+✅ Answer: C) 8
+
+Explanation
+
+8 appears three times.
+
+⭐ Short Trick
+
+Mode = Highest frequency.
+
+Partnership
+Q99
+
+A invests ₹40,000 and B invests ₹60,000 for the same duration. Their profit ratio is:
+
+A) 2 : 3
+
+B) 3 : 2
+
+C) 1 : 2
+
+D) 4 : 5
+
+✅ Answer: A) 2 : 3
+
+Explanation
+
+Same time ⇒ Ratio = Investment ratio
+
+40 : 60 = 2 : 3
+
+⭐ Short Trick
+
+If time is equal, ignore it.
+
+Mixed Arithmetic
+Q100
+
+A number is first increased by 10% and then decreased by 10%. The overall effect is:
+
+A) No change
+
+B) 1% decrease
+
+C) 1% increase
+
+D) 2% decrease
+
+✅ Answer: B) 1% decrease
+
+Explanation
+
+Assume the number = 100
+
+Increase by 10% → 110
+
+Decrease by 10% of 110 → 99
+
+Net result = 1% decrease
+
+⭐ CDS Short Trick
+
+For successive equal increase and decrease:
+
+Net Loss=
+100
+x
+2
+	​
+
+%
+	​
+
+
+For 10%:
+
+100
+10
+2
+	​
+
+=1%

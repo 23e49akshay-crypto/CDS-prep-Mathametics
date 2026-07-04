@@ -1,0 +1,1654 @@
+CDS Mathematics Training – Day 5 (Continued)
+Trigonometry (Q55–Q68)
+
+Difficulty: Medium–Hard (Actual CDS Previous Year Pattern)
+
+✅ 14 Completely New Questions (Verified Answer Key)
+
+Q55
+
+Evaluate:
+
+sin30
+∘
++cos60
+∘
++tan45
+∘
+
+A) 1
+
+B) 2
+
+C) 3
+
+D) √3
+
+✅ Answer: B) 2
+
+Explanation
+2
+1
+	​
+
++
+2
+1
+	​
+
++1=2
+
+⭐ CDS Short Trick
+
+Remember the basic values:
+
+sin30° = 1/2
+cos60° = 1/2
+tan45° = 1
+Q56
+
+Find
+
+cos45
+∘
+sin45
+∘
+	​
+
+
+A) 0
+
+B) 1
+
+C) √2
+
+D) 2
+
+✅ Answer: B) 1
+
+Explanation
+1/
+2
+	​
+
+1/
+2
+	​
+
+	​
+
+=1
+
+⭐ CDS Short Trick
+
+tanθ=
+cosθ
+sinθ
+	​
+
+
+Hence,
+
+cos45
+∘
+sin45
+∘
+	​
+
+=tan45
+∘
+=1
+Q57
+
+Evaluate
+
+sin
+2
+60
+∘
++cos
+2
+60
+∘
+
+A) 0
+
+B) 1
+
+C) 2
+
+D) √3
+
+✅ Answer: B) 1
+
+Explanation
+
+Using identity:
+
+sin
+2
+θ+cos
+2
+θ=1
+
+⭐ CDS Short Trick
+
+This identity is one of the most frequently asked in CDS.
+
+Q58
+
+If
+
+cosθ=
+17
+8
+	​
+
+
+then
+
+sinθ=
+
+A) 8/15
+
+B) 15/17
+
+C) 17/15
+
+D) 15/8
+
+✅ Answer: B) 15/17
+
+Explanation
+
+Using the 8–15–17 triangle:
+
+sinθ=
+17
+15
+	​
+
+
+⭐ CDS Short Trick
+
+Whenever denominator = 17, think:
+
+8–15–17
+
+Q59
+
+Evaluate
+
+sec30
+∘
+×cos30
+∘
+
+A) 0
+
+B) 1
+
+C) √3
+
+D) 2
+
+✅ Answer: B) 1
+
+Explanation
+secθ=
+cosθ
+1
+	​
+
+
+Hence,
+
+sec30
+∘
+×cos30
+∘
+=1
+
+⭐ CDS Short Trick
+
+secθ × cosθ = 1
+
+Q60
+
+The angle of elevation of the top of a tower is 45°.
+
+The observer is 32 m away.
+
+Height of the tower is
+
+A) 28 m
+
+B) 30 m
+
+C) 32 m
+
+D) 34 m
+
+✅ Answer: C) 32 m
+
+Explanation
+tan45
+∘
+=
+32
+h
+	​
+
+1=
+32
+h
+	​
+
+h=32 m
+
+⭐ CDS Short Trick
+
+At 45°,
+
+Height = Base
+
+Q61
+
+A ladder 34 m long reaches the top of a building.
+
+The foot of the ladder is 16 m away.
+
+Height reached is
+
+A) 28 m
+
+B) 30 m
+
+C) 32 m
+
+D) 34 m
+
+✅ Answer: B) 30 m
+
+Explanation
+34
+2
+−16
+2
+=1156−256=900
+
+Height = √900 = 30 m
+
+⭐ CDS Short Trick
+
+Recognize the 16–30–34 triplet.
+
+Q62
+
+Evaluate
+
+sin90
+∘
++cos180
+∘
+
+A) 0
+
+B) 1
+
+C) 2
+
+D) –1
+
+✅ Answer: A) 0
+
+Explanation
+
+sin90° = 1
+
+cos180° = –1
+
+1 + (–1) = 0
+
+⭐ CDS Short Trick
+
+Remember:
+
+cos180° = –1
+Q63
+
+If
+
+tanθ=
+24
+7
+	​
+
+
+then
+
+secθ=
+
+A) 24/25
+
+B) 25/24
+
+C) 7/25
+
+D) 25/7
+
+✅ Answer: B) 25/24
+
+Explanation
+
+Using the 7–24–25 triangle:
+
+cosθ=
+25
+24
+	​
+
+secθ=
+24
+25
+	​
+
+
+⭐ CDS Short Trick
+
+Draw a triangle immediately whenever tan is given.
+
+Q64
+
+Evaluate
+
+1+tan
+2
+45
+∘
+
+A) 1
+
+B) 2
+
+C) 3
+
+D) 4
+
+✅ Answer: B) 2
+
+Explanation
+
+tan45° = 1
+
+1 + 1 = 2
+
+⭐ CDS Short Trick
+
+Also,
+
+1+tan
+2
+θ=sec
+2
+θ
+Q65
+
+A flagpole casts a 24 m shadow.
+
+The Sun's elevation is 45°.
+
+Height of the pole is
+
+A) 20 m
+
+B) 22 m
+
+C) 24 m
+
+D) 26 m
+
+✅ Answer: C) 24 m
+
+Explanation
+tan45
+∘
+=
+24
+h
+	​
+
+h=24 m
+
+⭐ CDS Short Trick
+
+At 45°, height = shadow.
+
+Q66
+
+Evaluate
+
+sec60
+∘
+cos60
+∘
+	​
+
+
+A) 1/4
+
+B) 1/2
+
+C) 1
+
+D) 2
+
+✅ Answer: A) 1/4
+
+Explanation
+cos60
+∘
+=
+2
+1
+	​
+
+,sec60
+∘
+=2
+2
+1/2
+	​
+
+=
+4
+1
+	​
+
+
+⭐ CDS Short Trick
+
+Replace sec with 1/cos before solving.
+
+Q67
+
+The angle of depression from the top of a building is 60°.
+
+The horizontal distance from the building is 10 m.
+
+Height of the building is
+
+A) 10
+3
+	​
+
+ m
+
+B) 15
+3
+	​
+
+ m
+
+C) 20
+3
+	​
+
+ m
+
+D) 30
+3
+	​
+
+ m
+
+✅ Answer: A) 10
+3
+	​
+
+ m
+
+Explanation
+
+Angle of depression = Angle of elevation
+
+tan60
+∘
+=
+10
+h
+	​
+
+h=10
+3
+	​
+
+
+⭐ CDS Short Trick
+
+Angle of Depression = Angle of Elevation
+
+Q68
+
+If
+
+sinθ=
+13
+12
+	​
+
+
+then
+
+cosecθ=
+
+A) 12/13
+
+B) 13/12
+
+C) 5/13
+
+D) 13/5
+
+✅ Answer: B) 13/12
+
+Explanation
+cosecθ=
+sinθ
+1
+	​
+
+=
+12
+13
+	​
+
+
+⭐ CDS Short Trick
+
+cosec = Reciprocal of sin
+
+📘 CDS Trigonometry Speed Sheet
+Standard Values
+θ	sinθ	cosθ	tanθ
+0°	0	1	0
+30°	1/2	√3/2	1/√3
+45°	1/√2	1/√2	1
+60°	√3/2	1/2	√3
+90°	1	0	∞
+Must-Know Identities
+sin
+2
+θ+cos
+2
+θ=1
+1+tan
+2
+θ=sec
+2
+θ
+1+cot
+2
+θ=cosec
+2
+θ
+Important Pythagorean Triplets
+3–4–5
+5–12–13
+7–24–25
+8–15–17
+9–40–41
+10–24–26
+16–30–34
+✅ Day 5 Progress
+✔ Geometry — 20 Questions
+✔ Number System — 18 Questions
+✔ Mensuration — 16 Questions
+✔ Trigonometry — 14 Questions
+
+Completed: 68 / 100 Questions
+
+📌 Next
+
+Type "Continue" for Questions 69–80 (Algebra) with 12 brand-new verified CDS-level MCQs, followed by Questions 81–100 (Mixed Arithmetic) to complete Day 5.
+
+Continue
+CDS Mathematics Training – Day 5 (Continued)
+Algebra (Q69–Q80)
+
+Difficulty: Medium–Hard (Actual CDS Previous Year Pattern)
+
+✅ 12 Completely New Questions (Verified Answer Key)
+
+Q69
+
+Solve:
+
+x
+2
+−19x+90=0
+
+A) (9,10)
+
+B) (8,11)
+
+C) (5,18)
+
+D) (6,15)
+
+✅ Answer: A) (9,10)
+
+Explanation
+
+Find two numbers whose:
+
+Product = 90
+Sum = 19
+
+They are 9 and 10.
+
+x
+2
+−19x+90=(x−9)(x−10)
+
+⭐ CDS Short Trick
+
+For x
+2
++bx+c, think:
+
+Product = c, Sum = middle coefficient.
+
+Q70
+
+If
+
+9x−17=55
+
+then x equals
+
+A) 6
+
+B) 7
+
+C) 8
+
+D) 9
+
+✅ Answer: C) 8
+
+Explanation
+
+9x = 72
+
+x = 8
+
+⭐ CDS Short Trick
+
+Transpose constants first, divide once.
+
+Q71
+
+Evaluate
+
+(a+b)
+2
+
+when
+
+a = 11, b = 4
+
+A) 196
+
+B) 225
+
+C) 256
+
+D) 289
+
+✅ Answer: B) 225
+
+Explanation
+(11+4)
+2
+=15
+2
+=225
+
+⭐ CDS Short Trick
+
+If numbers are given, substitute directly.
+
+Q72
+
+The sum of the roots of
+
+4x
+2
+−15x+8=0
+
+is
+
+A) 15/4
+
+B) 8/15
+
+C) 4
+
+D) 15
+
+✅ Answer: A) 15/4
+
+Explanation
+Sum=−
+a
+b
+	​
+
+=
+4
+15
+	​
+
+
+⭐ CDS Short Trick
+
+Sum of roots = −b/a
+
+Q73
+
+The product of the roots of
+
+6x
+2
+−17x+5=0
+
+is
+
+A) 5/6
+
+B) 6/5
+
+C) 17/6
+
+D) 5
+
+✅ Answer: A) 5/6
+
+Explanation
+Product=
+a
+c
+	​
+
+=
+6
+5
+	​
+
+
+⭐ CDS Short Trick
+
+Product = c/a
+
+Q74
+
+Simplify
+
+(8x
+3
+)(5x
+4
+)
+
+A) 13x⁷
+
+B) 40x⁷
+
+C) 40x¹²
+
+D) 13x¹²
+
+✅ Answer: B) 40x⁷
+
+Explanation
+
+8 × 5 = 40
+
+x³ × x⁴ = x⁷
+
+⭐ CDS Short Trick
+
+Multiply coefficients, add powers.
+
+Q75
+
+If
+
+x+
+x
+1
+	​
+
+=9
+
+find
+
+x
+2
++
+x
+2
+1
+	​
+
+
+A) 77
+
+B) 79
+
+C) 81
+
+D) 83
+
+✅ Answer: B) 79
+
+Explanation
+(x+
+x
+1
+	​
+
+)
+2
+=x
+2
++
+x
+2
+1
+	​
+
++2
+
+81 = x² + 1/x² + 2
+
+Required value = 79
+
+⭐ CDS Short Trick
+
+Square the given value, subtract 2.
+
+Q76
+
+Factorise
+
+x
+2
+−121
+
+A) (x−11)(x+11)
+
+B) (x−11)²
+
+C) (x+11)²
+
+D) (x−1)(x+121)
+
+✅ Answer: A) (x−11)(x+11)
+
+Explanation
+x
+2
+−121=x
+2
+−11
+2
+=(x−11)(x+11)
+
+⭐ CDS Short Trick
+
+Difference of squares:
+
+a
+2
+−b
+2
+=(a+b)(a−b)
+Q77
+
+Solve
+
+6(x−5)=54
+
+A) 12
+
+B) 13
+
+C) 14
+
+D) 15
+
+✅ Answer: C) 14
+
+Explanation
+
+x − 5 = 9
+
+x = 14
+
+⭐ CDS Short Trick
+
+Divide first, then transpose.
+
+Q78
+
+If
+
+2
+x
+=128
+
+then x equals
+
+A) 5
+
+B) 6
+
+C) 7
+
+D) 8
+
+✅ Answer: C) 7
+
+Explanation
+
+128 = 2⁷
+
+Hence,
+
+x = 7
+
+⭐ CDS Short Trick
+
+Memorize powers:
+
+2⁵ = 32
+
+2⁶ = 64
+
+2⁷ = 128
+
+Q79
+
+Expand
+
+(x+6)(x−8)
+
+A) x²−2x−48
+
+B) x²+2x−48
+
+C) x²−14x−48
+
+D) x²+14x−48
+
+✅ Answer: A) x²−2x−48
+
+Explanation
+x
+2
+−8x+6x−48=x
+2
+−2x−48
+
+⭐ CDS Short Trick
+
+Middle term = Sum of cross-products.
+
+Q80
+
+If
+
+5
+7x
+	​
+
++3=31
+
+then x equals
+
+A) 18
+
+B) 20
+
+C) 22
+
+D) 24
+
+✅ Answer: B) 20
+
+Explanation
+5
+7x
+	​
+
+=28
+
+7x = 140
+
+x = 20
+
+⭐ CDS Short Trick
+
+Remove fractions by multiplying both sides by the denominator.
+
+📘 CDS Algebra Quick Revision
+Important Identities
+(a+b)
+2
+=a
+2
++2ab+b
+2
+(a−b)
+2
+=a
+2
+−2ab+b
+2
+a
+2
+−b
+2
+=(a+b)(a−b)
+Quadratic Root Properties
+
+For ax
+2
++bx+c=0:
+
+Sum of roots = −b/a
+Product of roots = c/a
+Exponent Rule
+x
+m
+×x
+n
+=x
+m+n
+✅ Day 5 Progress
+Topic	Completed
+Geometry	20/20
+Number System	18/18
+Mensuration	16/16
+Trigonometry	14/14
+Algebra	12/12
+
+Completed: 80 / 100 Questions
+
+🎯 Coach's Exam Tip
+
+In CDS, Algebra questions are often among the fastest to solve. Aim to finish each one in 30–40 seconds by recognizing patterns instead of performing lengthy calculations.
+
+➡️ Next: Type "Continue" for Questions 81–100 (Mixed Arithmetic) to complete Day 5 with 20 new verified CDS-level MCQs, detailed solutions, and compulsory short tricks.
+
+Continue
+CDS Mathematics Training – Day 5 (Final Part)
+Mixed Arithmetic (Q81–Q100)
+
+Difficulty: Medium–Hard (Actual CDS Previous Year Pattern)
+
+✅ 20 Completely New Questions (Verified Answer Key)
+
+Time & Work
+Q81
+
+A can complete a work in 20 days and B in 30 days. Working together, they will complete it in:
+
+A) 10 days
+
+B) 12 days
+
+C) 15 days
+
+D) 18 days
+
+✅ Answer: B) 12 days
+
+Explanation
+20
+1
+	​
+
++
+30
+1
+	​
+
+=
+60
+5
+	​
+
+=
+12
+1
+	​
+
+
+Hence, time = 12 days
+
+⭐ CDS Short Trick
+
+Time=
+a+b
+ab
+	​
+
+	​
+
+=
+20+30
+20×30
+	​
+
+=12
+Q82
+
+A is 6 times as efficient as B. If B completes a work in 42 days, A will complete it in:
+
+A) 6 days
+
+B) 7 days
+
+C) 8 days
+
+D) 9 days
+
+✅ Answer: B) 7 days
+
+Explanation
+
+42 ÷ 6 = 7 days
+
+⭐ CDS Short Trick
+
+Efficiency ↑ ⇒ Time ↓
+
+Q83
+
+A pipe fills a tank in 18 hours. How much tank is filled in 12 hours?
+
+A) 1/2
+
+B) 2/3
+
+C) 3/4
+
+D) 5/6
+
+✅ Answer: B) 2/3
+
+Explanation
+
+12/18 = 2/3
+
+⭐ CDS Short Trick
+
+Fraction filled = Time ÷ Total Time
+
+Time & Distance
+Q84
+
+A train covers 480 km in 8 hours. Its speed is:
+
+A) 55 km/h
+
+B) 60 km/h
+
+C) 65 km/h
+
+D) 70 km/h
+
+✅ Answer: B) 60 km/h
+
+Explanation
+
+480 ÷ 8 = 60 km/h
+
+⭐ CDS Short Trick
+
+Speed = Distance ÷ Time
+
+Q85
+
+Convert 90 km/h into m/s.
+
+A) 20
+
+B) 22
+
+C) 25
+
+D) 27
+
+✅ Answer: C) 25 m/s
+
+Explanation
+90×
+18
+5
+	​
+
+=25
+
+⭐ CDS Short Trick
+
+km/h → m/s = × 5/18
+
+Q86
+
+Two trains move in opposite directions at 75 km/h and 45 km/h. Their relative speed is:
+
+A) 30 km/h
+
+B) 90 km/h
+
+C) 120 km/h
+
+D) 150 km/h
+
+✅ Answer: C) 120 km/h
+
+Explanation
+
+75 + 45 = 120 km/h
+
+⭐ CDS Short Trick
+
+Opposite direction ⇒ Add
+
+Ratio & Proportion
+Q87
+
+The ratio of two numbers is 5 : 8. Their sum is 195. The larger number is:
+
+A) 115
+
+B) 120
+
+C) 125
+
+D) 130
+
+✅ Answer: B) 120
+
+Explanation
+
+Total parts = 13
+
+One part = 195 ÷ 13 = 15
+
+Larger = 8 × 15 = 120
+
+⭐ CDS Short Trick
+
+One part = Total ÷ Sum of ratios
+
+Q88
+
+₹1170 is divided in the ratio 3 : 4 : 6. The largest share is:
+
+A) ₹450
+
+B) ₹480
+
+C) ₹510
+
+D) ₹540
+
+✅ Answer: D) ₹540
+
+Explanation
+
+Total parts = 13
+
+One part = 1170 ÷ 13 = 90
+
+Largest = 6 × 90 = 540
+
+⭐ CDS Short Trick
+
+Amount × Required Ratio ÷ Total Ratio
+
+Percentage
+Q89
+
+35% of 720 equals:
+
+A) 242
+
+B) 252
+
+C) 262
+
+D) 272
+
+✅ Answer: B) 252
+
+Explanation
+
+720 × 35/100 = 252
+
+⭐ CDS Short Trick
+
+30% + 5%
+
+= 216 + 36
+
+= 252
+
+Q90
+
+The price of an article increases by 25% from ₹960. The new price is:
+
+A) ₹1150
+
+B) ₹1180
+
+C) ₹1200
+
+D) ₹1220
+
+✅ Answer: C) ₹1200
+
+Explanation
+
+25% of 960 = 240
+
+960 + 240 = 1200
+
+⭐ CDS Short Trick
+
+125% of 960 = 1200
+
+Profit & Loss
+Q91
+
+Cost Price = ₹1800
+
+Selling Price = ₹2160
+
+Profit percentage is:
+
+A) 18%
+
+B) 20%
+
+C) 22%
+
+D) 24%
+
+✅ Answer: B) 20%
+
+Explanation
+
+Profit = 360
+
+360/1800 × 100 = 20%
+
+⭐ CDS Short Trick
+
+Profit % = Profit ÷ CP × 100
+
+Q92
+
+An article is sold at 15% loss. If its cost price is ₹4000, its selling price is:
+
+A) ₹3300
+
+B) ₹3400
+
+C) ₹3500
+
+D) ₹3600
+
+✅ Answer: B) ₹3400
+
+Explanation
+
+85% of 4000 = 3400
+
+⭐ CDS Short Trick
+
+15% loss ⇒ Multiply by 0.85
+
+Simple Interest
+Q93
+
+Find the Simple Interest on ₹12,000 for 4 years at 5% p.a.
+
+A) ₹2200
+
+B) ₹2300
+
+C) ₹2400
+
+D) ₹2500
+
+✅ Answer: C) ₹2400
+
+Explanation
+SI=
+100
+12000×5×4
+	​
+
+=2400
+
+⭐ CDS Short Trick
+
+Cancel zeros before multiplying.
+
+Q94
+
+Principal = ₹15,000
+
+Amount = ₹16,800
+
+Simple Interest is:
+
+A) ₹1600
+
+B) ₹1700
+
+C) ₹1800
+
+D) ₹1900
+
+✅ Answer: C) ₹1800
+
+Explanation
+
+16,800 − 15,000 = ₹1800
+
+⭐ CDS Short Trick
+
+SI = Amount − Principal
+
+Compound Interest
+Q95
+
+₹8000 is invested at 10% p.a. for 2 years (compounded annually). The amount is:
+
+A) ₹9600
+
+B) ₹9680
+
+C) ₹9700
+
+D) ₹9720
+
+✅ Answer: B) ₹9680
+
+Explanation
+
+8000 × 1.21 = ₹9680
+
+⭐ CDS Short Trick
+
+For 10% and 2 years,
+
+Multiply by 1.21
+
+Average
+Q96
+
+Average of
+
+14, 18, 22, 26, 30
+
+A) 20
+
+B) 21
+
+C) 22
+
+D) 23
+
+✅ Answer: C) 22
+
+Explanation
+
+These are equally spaced numbers.
+
+Average = Middle number = 22
+
+⭐ CDS Short Trick
+
+Equally spaced numbers ⇒ Average = Middle term
+
+Statistics
+Q97
+
+Median of
+
+11, 14, 18, 21, 27, 32, 36
+
+A) 18
+
+B) 21
+
+C) 24
+
+D) 27
+
+✅ Answer: B) 21
+
+Explanation
+
+There are 7 observations.
+
+Median = 4th observation = 21
+
+⭐ CDS Short Trick
+
+Odd observations ⇒ Middle value
+
+Q98
+
+Mode of
+
+9, 10, 10, 12, 12, 12, 15, 18
+
+A) 9
+
+B) 10
+
+C) 12
+
+D) 15
+
+✅ Answer: C) 12
+
+Explanation
+
+12 appears three times.
+
+⭐ CDS Short Trick
+
+Mode = Highest frequency
+
+Partnership
+Q99
+
+A invests ₹48,000 and B invests ₹72,000 for the same duration. Their profit ratio is:
+
+A) 2 : 3
+
+B) 3 : 4
+
+C) 4 : 5
+
+D) 5 : 6
+
+✅ Answer: A) 2 : 3
+
+Explanation
+
+48000 : 72000
+
+= 2 : 3
+
+⭐ CDS Short Trick
+
+Equal time ⇒ Profit ratio = Investment ratio
+
+Mixed Arithmetic
+Q100
+
+A number is increased by 40% and then decreased by 40%. The overall effect is:
+
+A) No change
+
+B) 12% decrease
+
+C) 16% decrease
+
+D) 16% increase
+
+✅ Answer: C) 16% decrease
+
+Explanation
+
+Assume the number = 100
+
+After 40% increase = 140
+
+After 40% decrease = 84
+
+Net decrease = 16%
+
+⭐ CDS Short Trick
+
+For equal successive increase and decrease:
+
+Net Loss=
+100
+x
+2
+	​
+
+%
+	​
+
+
+For 40%,
+
+100
+40
+2
+	​
+
+=16%

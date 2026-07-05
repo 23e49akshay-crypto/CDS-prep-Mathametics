@@ -1,3 +1,640 @@
+
+CDS Mathematics Training – Day 6 (Questions 1–20/100)
+Real CDS Mixed Pattern Test – Part 1
+
+✅ New Rule from Day 6: Questions are now mixed exactly like the CDS paper (not topic-wise).
+
+Difficulty: Medium–Hard (Previous Year CDS Standard)
+
+📌 All 20 questions are completely new.
+
+Q1 (Number System)
+
+The HCF of 756 and 1134 is:
+
+A) 126
+
+B) 189
+
+C) 252
+
+D) 378
+
+✅ Answer: D) 378
+
+Explanation
+
+756 = 2² × 3³ × 7
+
+1134 = 2 × 3⁴ × 7
+
+HCF = 2 × 3³ × 7 = 378
+
+⭐ CDS Short Trick
+
+Use Euclid's Algorithm:
+
+1134 − 756 = 378
+
+756 ÷ 378 = 0
+
+Q2 (Geometry)
+
+The sum of interior angles of a 16-sided polygon is:
+
+A) 2340°
+
+B) 2520°
+
+C) 2700°
+
+D) 2880°
+
+✅ Answer: B) 2520°
+
+Explanation
+
+(16−2) ×180
+
+=14×180
+
+=2520°
+
+⭐ Short Trick
+
+(n−2)×180
+
+Q3 (Algebra)
+
+Solve
+
+x
+2
+−21x+110=0
+
+A)10,11
+
+B)9,12
+
+C)5,22
+
+D)8,13
+
+✅ Answer: A) 10,11
+
+Explanation
+
+110 =10×11
+
+10+11=21
+
+⭐ Short Trick
+
+Product = Constant
+
+Sum = Middle coefficient
+
+Q4 (Percentage)
+
+35% of 840 equals
+
+A)284
+
+B)294
+
+C)304
+
+D)314
+
+✅ Answer: B) 294
+
+Explanation
+
+840×35/100
+
+=294
+
+⭐ Short Trick
+
+30%=252
+
+5%=42
+
+Total=294
+
+Q5 (Trigonometry)
+
+Evaluate
+
+sin45
+∘
+×sec45
+∘
+
+A)0
+
+B)1
+
+C)√2
+
+D)2
+
+✅ Answer: B) 1
+
+Explanation
+
+sin45=1/√2
+
+sec45=√2
+
+Product=1
+
+⭐ Short Trick
+
+sec × cos =1
+
+Similarly,
+
+sin × cosec =1
+
+Q6 (Mensuration)
+
+The volume of a cube is 2744 cm³.
+
+Its side is
+
+A)12 cm
+
+B)13 cm
+
+C)14 cm
+
+D)15 cm
+
+✅ Answer: C) 14 cm
+
+Explanation
+
+14³=2744
+
+⭐ Short Trick
+
+Memorize cubes up to 20³.
+
+Q7 (Time & Work)
+
+A finishes work in 15 days.
+
+B finishes the same work in 10 days.
+
+Working together, they finish in
+
+A)5 days
+
+B)6 days
+
+C)7 days
+
+D)8 days
+
+✅ Answer: B) 6 days
+
+Explanation
+
+15×10
+
+÷25
+
+=6
+
+⭐ Short Trick
+
+a+b
+ab
+	​
+
+	​
+
+Q8 (Number System)
+
+The least number divisible by 18,24 and30
+
+A)180
+
+B)240
+
+C)360
+
+D)720
+
+✅ Answer: C) 360
+
+Explanation
+
+LCM
+
+=2³×3²×5
+
+=360
+
+⭐ Short Trick
+
+"Least divisible by all" ⇒ LCM
+
+Q9 (Geometry)
+
+The diagonals of a rectangle are 25 cm.
+
+One side is 15 cm.
+
+The other side is
+
+A)18 cm
+
+B)20 cm
+
+C)22 cm
+
+D)24 cm
+
+✅ Answer: B) 20 cm
+
+Explanation
+
+25²−15²
+
+625−225
+
+400
+
+√400=20
+
+⭐ Short Trick
+
+Recognize 15–20–25
+
+Q10 (Average)
+
+Average of
+
+18,20,22,24,26
+
+A)20
+
+B)21
+
+C)22
+
+D)23
+
+✅ Answer: C) 22
+
+Explanation
+
+Equally spaced numbers
+
+Average = Middle number
+
+⭐ Short Trick
+
+Average = Middle term
+
+Q11 (Profit & Loss)
+
+CP = ₹2400
+
+SP = ₹2880
+
+Profit %
+
+A)18%
+
+B)20%
+
+C)22%
+
+D)24%
+
+✅ Answer: B) 20%
+
+Explanation
+
+Profit=480
+
+480/2400×100
+
+=20%
+
+⭐ Short Trick
+
+Profit ÷ CP ×100
+
+Q12 (Algebra)
+
+If
+
+3x+17=56
+
+Find x.
+
+A)11
+
+B)12
+
+C)13
+
+D)14
+
+✅ Answer: C) 13
+
+Explanation
+
+3x=39
+
+x=13
+
+⭐ Short Trick
+
+Transpose then divide.
+
+Q13 (Trigonometry)
+
+If
+
+tanθ=
+5
+3
+	​
+
+
+find
+
+sinθ
+
+A)3/5
+
+B)3/√34
+
+C)3/√34 simplified?
+
+D)3/√34
+
+✅ Answer: B) 3/
+34
+	​
+
+
+Explanation
+
+Take opposite = 3, adjacent = 5.
+
+Hypotenuse = 
+3
+2
++5
+2
+	​
+
+=
+34
+	​
+
+.
+
+sinθ=
+34
+	​
+
+3
+	​
+
+
+⭐ Short Trick
+
+If tan = a/b and it's not a standard triplet, use:
+
+Hypotenuse = 
+a
+2
++b
+2
+	​
+
+.
+
+Q14 (Simple Interest)
+
+SI on ₹8000 for 3 years at 5%
+
+A)1000
+
+B)1100
+
+C)1200
+
+D)1300
+
+✅ Answer: C) 1200
+
+Explanation
+
+8000×5×3
+
+÷100
+
+=1200
+
+⭐ Short Trick
+
+Cancel zeros first.
+
+Q15 (Mensuration)
+
+Radius of sphere doubles.
+
+Volume becomes
+
+A)4
+
+B)6
+
+C)8
+
+D)16
+
+✅ Answer: C) 8
+
+Explanation
+
+Volume ∝ r³
+
+2³=8
+
+⭐ Short Trick
+
+Radius doubles ⇒ Volume ×8
+
+Q16 (Ratio)
+
+Ratio=7:9
+
+Sum=160
+
+Larger number
+
+A)80
+
+B)90
+
+C)96
+
+D)100
+
+✅ Answer: B) 90
+
+Explanation
+
+⚠️ Let's verify:
+
+Total parts = 7 + 9 = 16
+
+One part = 160 ÷ 16 = 10
+
+Larger = 9 × 10 = 90
+
+⭐ Short Trick
+
+Find one part first.
+
+Q17 (Geometry)
+
+Each exterior angle of a regular polygon is 40°.
+
+Number of sides
+
+A)8
+
+B)9
+
+C)10
+
+D)12
+
+✅ Answer: B) 9
+
+Explanation
+
+360÷40
+
+=9
+
+⭐ Short Trick
+
+Sides =360÷Exterior angle
+
+Q18 (Time & Distance)
+
+A train covers 600 km in 10 hours.
+
+Speed
+
+A)55
+
+B)60
+
+C)65
+
+D)70
+
+✅ Answer: B) 60 km/h
+
+Explanation
+
+600÷10
+
+=60
+
+⭐ Short Trick
+
+Speed=Distance÷Time
+
+Q19 (Statistics)
+
+Median of
+
+5,9,13,17,21
+
+A)9
+
+B)13
+
+C)17
+
+D)21
+
+✅ Answer: B) 13
+
+Explanation
+
+Middle observation
+
+⭐ Short Trick
+
+Odd observations ⇒ Middle value
+
+Q20 (Compound Interest)
+
+₹5000 at 20% p.a. for 2 years (compounded annually).
+
+Amount equals
+
+A)7000
+
+B)7100
+
+C)7200
+
+D)7300
+
+✅ Answer: C) 7200
+
+Explanation
+
+5000×1.2²
+
+=5000×1.44
+
+=7200
+
+⭐ Short Trick
+
+20% for 2 years ⇒ Multiply by 1.44
+
+✅ Day 6 Progress
+✔ Mixed CDS Pattern: 20/100 Questions
+✔ Topics Covered:
+Geometry
+Number System
+Algebra
+Trigonometry
+Mensuration
+Time & Work
+Time & Distance
+Profit & Loss
+Average
+Statistics
+Ratio
+Simple Interest
+Compound Interest
+🎯 Timed Challenge
+
+⏱️ Try to solve these 20 questions in 22 minutes.
+
+18–20 correct: Excellent (CDS A-grade)
+15–17 correct: Good
+Below 15: Revise Number System and Trigonometry before proceeding.
+
+Type "Continue" for Questions 21–40 (Mixed Pattern) with 20 more brand-new CDS-level questions.
 CDS Mathematics Training – Day 6 (Questions 41–60/100)
 Real CDS Mixed Pattern Test – Part 3
 

@@ -1,0 +1,1799 @@
+CDS Mathematics Training – Day 7 (Questions 41–60/100)
+Real CDS Mixed Mock Test – Part 3
+
+✅ 20 Completely New Questions
+
+Difficulty: Medium–Hard (Actual CDS Pattern)
+
+⭐ Every question includes a CDS Speed Trick
+
+Q41 (Number System)
+
+The HCF of 1260 and 1890 is:
+
+A) 210
+
+B) 315
+
+C) 420
+
+D) 630
+
+✅ Answer: D) 630
+
+Explanation
+
+1260 = 2² × 3² × 5 × 7
+
+1890 = 2 × 3³ × 5 × 7
+
+HCF = 2 × 3² × 5 × 7 = 630
+
+⭐ CDS Short Trick
+
+Use Euclid's Algorithm:
+
+1890 − 1260 = 630
+
+1260 ÷ 630 = 0
+
+Q42 (Algebra)
+
+Solve
+
+x
+2
+−15x+54=0
+
+A) (6,9)
+
+B) (5,10)
+
+C) (3,18)
+
+D) (2,27)
+
+✅ Answer: A) (6,9)
+
+Explanation
+
+6 × 9 = 54
+
+6 + 9 = 15
+
+⭐ CDS Short Trick
+
+Product = Constant
+
+Sum = Middle coefficient
+
+Q43 (Percentage)
+
+87.5% of 320 is
+
+A) 260
+
+B) 270
+
+C) 280
+
+D) 290
+
+✅ Answer: C) 280
+
+Explanation
+
+87.5% = 7/8
+
+320 × 7/8 = 280
+
+⭐ CDS Short Trick
+
+Remember:
+
+87.5% = 7/8
+
+Q44 (Geometry)
+
+A regular polygon has 30 sides.
+
+Each exterior angle is
+
+A) 10°
+
+B) 12°
+
+C) 15°
+
+D) 18°
+
+✅ Answer: B) 12°
+
+Explanation
+
+360° ÷ 30 = 12°
+
+⭐ CDS Short Trick
+
+Exterior angle = 360° ÷ Number of sides
+
+Q45 (Time & Work)
+
+A can finish a work in 28 days, B in 21 days.
+
+Working together, they finish in:
+
+A) 10 days
+
+B) 12 days
+
+C) 14 days
+
+D) 16 days
+
+✅ Answer: B) 12 days
+
+Explanation
+28+21
+28×21
+	​
+
+=
+49
+588
+	​
+
+=12
+
+⭐ CDS Short Trick
+
+Time=
+a+b
+ab
+	​
+
+	​
+
+Q46 (Trigonometry)
+
+Evaluate
+
+sin30
+∘
++cos60
+∘
++tan45
+∘
+
+A) 1
+
+B) 2
+
+C) 3
+
+D) 4
+
+✅ Answer: B) 2
+
+Explanation
+2
+1
+	​
+
++
+2
+1
+	​
+
++1=2
+
+⭐ CDS Short Trick
+
+Memorize all standard values.
+
+Q47 (Mensuration)
+
+The total surface area of a cube is 600 cm².
+
+Its side is
+
+A) 8 cm
+
+B) 10 cm
+
+C) 12 cm
+
+D) 14 cm
+
+✅ Answer: B) 10 cm
+
+Explanation
+
+6a² = 600
+
+a² = 100
+
+a = 10 cm
+
+⭐ CDS Short Trick
+
+a=
+6
+TSA
+	​
+
+	​
+
+Q48 (Ratio & Proportion)
+
+The ratio of two numbers is 5 : 12.
+
+Their difference is 56.
+
+The larger number is
+
+A) 84
+
+B) 90
+
+C) 96
+
+D) 102
+
+✅ Answer: C) 96
+
+Explanation
+
+Difference = 12 − 5 = 7 parts
+
+One part = 56 ÷ 7 = 8
+
+Larger = 12 × 8 = 96
+
+⭐ CDS Short Trick
+
+Difference ÷ Difference of ratio = One part.
+
+Q49 (Number System)
+
+The remainder when 5678 is divided by 11 is:
+
+A) 1
+
+B) 2
+
+C) 3
+
+D) 4
+
+✅ Answer: B) 2
+
+Explanation
+
+11 × 516 = 5676
+
+Remainder = 2
+
+⭐ CDS Short Trick
+
+For small numbers, multiply the nearest multiple mentally.
+
+Q50 (Profit & Loss)
+
+An article is sold for ₹1800 at a 20% profit.
+
+Its cost price is
+
+A) ₹1450
+
+B) ₹1500
+
+C) ₹1550
+
+D) ₹1600
+
+✅ Answer: B) ₹1500
+
+Explanation
+
+120% = 1800
+
+100% = 1500
+
+⭐ CDS Short Trick
+
+CP = SP × 100 / (100 + Profit%)
+
+Q51 (Algebra)
+
+If
+
+7x+11=74
+
+then x equals
+
+A) 7
+
+B) 8
+
+C) 9
+
+D) 10
+
+✅ Answer: C) 9
+
+Explanation
+
+7x = 63
+
+x = 9
+
+⭐ CDS Short Trick
+
+Transpose first, divide later.
+
+Q52 (Geometry)
+
+The area of a circle of radius 21 cm is
+
+A) 441π cm²
+
+B) 462π cm²
+
+C) 484π cm²
+
+D) 529π cm²
+
+✅ Answer: A) 441π cm²
+
+Explanation
+
+Area = πr²
+
+= π × 21²
+
+= 441π cm²
+
+⭐ CDS Short Trick
+
+Area = πr²
+
+Q53 (Average)
+
+Average of first 25 natural numbers is
+
+A) 12
+
+B) 12.5
+
+C) 13
+
+D) 13.5
+
+✅ Answer: C) 13
+
+Explanation
+2
+1+25
+	​
+
+=13
+
+⭐ CDS Short Trick
+
+Average of consecutive numbers = (First + Last) ÷ 2
+
+Q54 (Time & Distance)
+
+Convert 72 km/h into m/s
+
+A) 18
+
+B) 20
+
+C) 22
+
+D) 24
+
+✅ Answer: B) 20 m/s
+
+Explanation
+
+72 × 5 ÷ 18 = 20
+
+⭐ CDS Short Trick
+
+km/h → m/s = × 5/18
+
+Q55 (Simple Interest)
+
+Find SI on ₹15,000 for 4 years at 6% p.a.
+
+A) ₹3400
+
+B) ₹3500
+
+C) ₹3600
+
+D) ₹3700
+
+✅ Answer: C) ₹3600
+
+Explanation
+SI=
+100
+15000×6×4
+	​
+
+=3600
+
+⭐ CDS Short Trick
+
+Cancel zeros before multiplication.
+
+Q56 (Trigonometry)
+
+If
+
+sinθ=
+17
+8
+	​
+
+
+then
+
+cosθ=
+
+A) 15/17
+
+B) 8/15
+
+C) 17/15
+
+D) 15/8
+
+✅ Answer: A) 15/17
+
+Explanation
+
+Use the 8–15–17 triangle.
+
+⭐ CDS Short Trick
+
+Whenever denominator is 17, think:
+
+8–15–17
+
+Q57 (Mensuration)
+
+The volume of a cylinder with radius 4 cm and height 10 cm is
+
+A) 120π cm³
+
+B) 140π cm³
+
+C) 160π cm³
+
+D) 180π cm³
+
+✅ Answer: C) 160π cm³
+
+Explanation
+
+Volume = πr²h
+
+= π × 16 × 10
+
+= 160π cm³
+
+⭐ CDS Short Trick
+
+Cylinder Volume = πr²h
+
+Q58 (Statistics)
+
+Median of
+
+11, 15, 18, 22, 26, 31, 35
+
+A) 18
+
+B) 22
+
+C) 26
+
+D) 31
+
+✅ Answer: B) 22
+
+Explanation
+
+There are 7 observations.
+
+Middle value = 22
+
+⭐ CDS Short Trick
+
+Odd observations ⇒ Middle term.
+
+Q59 (Compound Interest)
+
+₹12,000 is invested at 10% p.a. for 2 years.
+
+Amount equals
+
+A) ₹14,420
+
+B) ₹14,520
+
+C) ₹14,620
+
+D) ₹14,720
+
+✅ Answer: B) ₹14,520
+
+Explanation
+
+12000 × 1.21 = ₹14,520
+
+⭐ CDS Short Trick
+
+For 10% for 2 years, multiply by 1.21.
+
+Q60 (Geometry)
+
+The diagonal of a square is 14√2 cm.
+
+Its area is
+
+A) 169 cm²
+
+B) 196 cm²
+
+C) 225 cm²
+
+D) 256 cm²
+
+✅ Answer: B) 196 cm²
+
+Explanation
+
+Side = 14 cm
+
+Area = 14² = 196 cm²
+
+⭐ CDS Short Trick
+
+Square:
+
+Side = Diagonal ÷ √2
+
+✅ Day 7 Progress
+✔ Completed: 60 / 100 Questions
+✔ Pattern: Real CDS Mixed Mock
+✔ Difficulty: Medium–Hard
+🎯 Speed Goal
+
+⏱️ Solve these 20 questions in 20 minutes.
+
+Score Guide
+
+18–20: Excellent
+15–17: Very Good
+12–14: Good
+Below 12: Revise Number System, Geometry, and Arithmetic shortcuts.
+
+➡️ Type "Continue" for Questions 61–80 (Mixed Mock – Part 4).
+
+Continue 
+CDS Mathematics Training – Day 7 (Questions 61–80/100)
+Real CDS Mixed Mock Test – Part 4
+
+✅ 20 Completely New Questions
+
+Difficulty: Medium–Hard (Actual CDS Pattern)
+
+⭐ Every question includes a CDS Speed Trick
+
+Q61 (Number System)
+
+The HCF of 1152 and 1728 is:
+
+A) 288
+
+B) 384
+
+C) 576
+
+D) 864
+
+✅ Answer: C) 576
+
+Explanation
+
+1152 = 2⁷ × 3²
+
+1728 = 2⁶ × 3³
+
+HCF = 2⁶ × 3² = 576
+
+⭐ CDS Short Trick
+
+Use Euclid's Algorithm:
+
+1728 − 1152 = 576
+
+1152 ÷ 576 = 2
+
+Hence HCF = 576
+
+Q62 (Algebra)
+
+Solve
+
+x
+2
+−20x+99=0
+
+A) (9,11)
+
+B) (10,10)
+
+C) (8,12)
+
+D) (7,13)
+
+✅ Answer: A) (9,11)
+
+Explanation
+
+9 × 11 = 99
+
+9 + 11 = 20
+
+⭐ CDS Short Trick
+
+Find two numbers whose product = constant and sum = middle coefficient.
+
+Q63 (Percentage)
+
+22.5% of 800 is:
+
+A) 160
+
+B) 170
+
+C) 180
+
+D) 190
+
+✅ Answer: C) 180
+
+Explanation
+
+20% = 160
+
+2.5% = 20
+
+Total = 180
+
+⭐ CDS Short Trick
+
+22.5% = 20% + 2.5%
+
+Q64 (Geometry)
+
+The sum of interior angles of a 25-sided polygon is:
+
+A) 3960°
+
+B) 4140°
+
+C) 4320°
+
+D) 4500°
+
+✅ Answer: B) 4140°
+
+Explanation
+(25−2)×180=23×180=4140
+∘
+
+⭐ CDS Short Trick
+
+Interior angle sum = (n − 2) × 180°
+
+Q65 (Time & Work)
+
+A completes a work in 36 days and B in 18 days. Together they complete it in:
+
+A) 10 days
+
+B) 12 days
+
+C) 14 days
+
+D) 16 days
+
+✅ Answer: B) 12 days
+
+Explanation
+36+18
+36×18
+	​
+
+=
+54
+648
+	​
+
+=12
+
+⭐ CDS Short Trick
+
+Use
+
+a+b
+ab
+	​
+
+	​
+
+Q66 (Trigonometry)
+
+Evaluate
+
+sin30
+∘
+cos60
+∘
+	​
+
+
+A) 1/2
+
+B) 1
+
+C) 2
+
+D) √2
+
+✅ Answer: B) 1
+
+Explanation
+1/2
+1/2
+	​
+
+=1
+
+⭐ CDS Short Trick
+
+sin30° = cos60° = 1/2
+
+Q67 (Mensuration)
+
+The volume of a sphere of radius 7 cm is:
+
+A) 
+3
+1372π
+	​
+
+ cm³
+
+B) 
+3
+1400π
+	​
+
+ cm³
+
+C) 
+3
+1500π
+	​
+
+ cm³
+
+D) 
+3
+1600π
+	​
+
+ cm³
+
+✅ Answer: A) 
+3
+1372π
+	​
+
+ cm³
+
+Explanation
+V=
+3
+4
+	​
+
+πr
+3
+=
+3
+4
+	​
+
+π(343)=
+3
+1372π
+	​
+
+
+⭐ CDS Short Trick
+
+First calculate 7³ = 343, then multiply by 4/3.
+
+Q68 (Ratio & Proportion)
+
+The ratio of two numbers is 4 : 7. Their difference is 27. The larger number is:
+
+A) 49
+
+B) 56
+
+C) 63
+
+D) 72
+
+✅ Answer: C) 63
+
+Explanation
+
+Difference = 3 parts
+
+One part = 27 ÷ 3 = 9
+
+Larger = 7 × 9 = 63
+
+⭐ CDS Short Trick
+
+Difference ÷ Ratio difference = One part.
+
+Q69 (Number System)
+
+The smallest number divisible by 18, 27 and 45 is:
+
+A) 180
+
+B) 270
+
+C) 540
+
+D) 810
+
+✅ Answer: B) 270
+
+Explanation
+
+18 = 2 × 3²
+
+27 = 3³
+
+45 = 3² × 5
+
+LCM = 2 × 3³ × 5 = 270
+
+⭐ CDS Short Trick
+
+Use the highest powers of prime factors.
+
+Q70 (Profit & Loss)
+
+An article is sold for ₹1260 at a 5% profit. Its cost price is:
+
+A) ₹1180
+
+B) ₹1200
+
+C) ₹1220
+
+D) ₹1240
+
+✅ Answer: B) ₹1200
+
+Explanation
+
+105% = ₹1260
+
+100% = ₹1200
+
+⭐ CDS Short Trick
+
+CP = SP × 100 / (100 + Profit%)
+
+Q71 (Algebra)
+
+If
+
+11x−22=88
+
+then x equals:
+
+A) 8
+
+B) 9
+
+C) 10
+
+D) 11
+
+✅ Answer: C) 10
+
+Explanation
+
+11x = 110
+
+x = 10
+
+⭐ CDS Short Trick
+
+Transpose first, divide later.
+
+Q72 (Geometry)
+
+The circumference of a circle of radius 14 cm is:
+
+A) 28π cm
+
+B) 44 cm
+
+C) 88 cm
+
+D) 98 cm
+
+✅ Answer: A) 28π cm
+
+Explanation
+2πr=2π×14=28π
+
+⭐ CDS Short Trick
+
+Circumference = 2πr
+
+Q73 (Average)
+
+Average of first 40 even numbers is:
+
+A) 39
+
+B) 40
+
+C) 41
+
+D) 42
+
+✅ Answer: C) 41
+
+Explanation
+
+First even number = 2
+
+40th even number = 80
+
+Average
+
+=
+2
+2+80
+	​
+
+=41
+
+⭐ CDS Short Trick
+
+Average = (First + Last) ÷ 2
+
+Q74 (Time & Distance)
+
+Convert 90 km/h into m/s.
+
+A) 20
+
+B) 22
+
+C) 25
+
+D) 30
+
+✅ Answer: C) 25 m/s
+
+Explanation
+90×
+18
+5
+	​
+
+=25
+
+⭐ CDS Short Trick
+
+km/h → m/s = × 5/18
+
+Q75 (Simple Interest)
+
+Find SI on ₹18,000 for 2 years at 8% p.a.
+
+A) ₹2680
+
+B) ₹2780
+
+C) ₹2880
+
+D) ₹2980
+
+✅ Answer: C) ₹2880
+
+Explanation
+SI=
+100
+18000×8×2
+	​
+
+=2880
+
+⭐ CDS Short Trick
+
+Cancel zeros before multiplying.
+
+Q76 (Trigonometry)
+
+If
+
+cosθ=
+17
+15
+	​
+
+
+then
+
+sinθ=
+
+A) 8/17
+
+B) 15/17
+
+C) 17/8
+
+D) 8/15
+
+✅ Answer: A) 8/17
+
+Explanation
+
+Use the 8–15–17 triangle.
+
+⭐ CDS Short Trick
+
+Whenever denominator is 17, think 8–15–17.
+
+Q77 (Mensuration)
+
+The curved surface area of a cone with radius 5 cm and slant height 13 cm is:
+
+A) 60π cm²
+
+B) 65π cm²
+
+C) 70π cm²
+
+D) 75π cm²
+
+✅ Answer: B) 65π cm²
+
+Explanation
+
+CSA = πrl
+
+= π × 5 × 13
+
+= 65π cm²
+
+⭐ CDS Short Trick
+
+Cone CSA = πrl
+
+Q78 (Statistics)
+
+Median of
+
+14, 17, 20, 23, 26, 29, 32
+
+A) 20
+
+B) 23
+
+C) 26
+
+D) 29
+
+✅ Answer: B) 23
+
+Explanation
+
+There are 7 observations.
+
+Median = 4th observation = 23
+
+⭐ CDS Short Trick
+
+Odd observations ⇒ Middle value.
+
+Q79 (Compound Interest)
+
+₹15,000 is invested at 20% p.a. for 2 years (compounded annually). The amount is:
+
+A) ₹21,000
+
+B) ₹21,400
+
+C) ₹21,600
+
+D) ₹22,000
+
+✅ Answer: C) ₹21,600
+
+Explanation
+15000×1.44=21600
+
+⭐ CDS Short Trick
+
+20% for 2 years ⇒ Multiply by 1.44
+
+Q80 (Geometry)
+
+The perimeter of a square is 64 cm. Its diagonal is:
+
+A) 14
+2
+	​
+
+ cm
+
+B) 16
+2
+	​
+
+ cm
+
+C) 18
+2
+	​
+
+ cm
+
+D) 20
+2
+	​
+
+ cm
+
+✅ Answer: B) 16
+2
+	​
+
+ cm
+
+Explanation
+
+Side = 64 ÷ 4 = 16 cm
+
+Diagonal = 16√2 cm
+
+⭐ CDS Short Trick
+
+Diagonal of a square = Side × √2
+
+✅ Day 7 Progress
+✔ Completed: 80 / 100 Questions
+✔ Mixed Mock Pattern maintained
+✔ All questions are new and CDS-focused.
+🎯 Coach's Tip
+
+In the actual CDS exam, don't spend more than 45 seconds on any single question. If a question takes longer, mark it for review and move on. Speed and selection are often more important than solving every problem on the first pass.
+
+➡️ Type "Continue" for the final 20 questions (Q81–Q100) to complete Day 7 (100/100).
+
+Continue 
+CDS Mathematics Training – Day 7 (Questions 81–100/100)
+Real CDS Mixed Mock Test – Part 5 (Final)
+
+✅ 20 Completely New Questions
+
+Difficulty: Medium–Hard (Actual CDS Pattern)
+
+⭐ Every question includes a CDS Speed Trick
+
+Q81 (Number System)
+
+The smallest number which when divided by 24, 36 and 54 leaves a remainder 7 is:
+
+A) 211
+
+B) 223
+
+C) 439
+
+D) 439
+
+✅ Answer: C) 439
+
+Explanation
+
+LCM(24, 36, 54)
+
+= 2³ × 3³
+
+= 216
+
+Required number = 216k + 7
+
+Smallest such number after one LCM = 216 + 7 = 223.
+
+⚠️ Correction: The correct answer is 223.
+
+✅ Correct Answer: B) 223
+
+⭐ CDS Short Trick
+
+Same remainder ⇒ Answer = LCM + Remainder
+
+Q82 (Algebra)
+
+Solve
+
+x
+2
+−24x+143=0
+
+A) (11,13)
+
+B) (12,12)
+
+C) (9,15)
+
+D) (7,17)
+
+✅ Answer: A) (11,13)
+
+Explanation
+
+11 × 13 = 143
+
+11 + 13 = 24
+
+⭐ CDS Short Trick
+
+Product = Constant
+
+Sum = Middle coefficient.
+
+Q83 (Percentage)
+
+18.75% of 640 equals
+
+A) 100
+
+B) 110
+
+C) 120
+
+D) 130
+
+✅ Answer: C) 120
+
+Explanation
+
+18.75% = 3/16
+
+640 × 3/16 = 120
+
+⭐ CDS Short Trick
+
+Remember:
+
+18.75% = 3/16
+
+Q84 (Geometry)
+
+The area of a triangle is 270 cm². If its base is 18 cm, the height is:
+
+A) 28 cm
+
+B) 30 cm
+
+C) 32 cm
+
+D) 34 cm
+
+✅ Answer: B) 30 cm
+
+Explanation
+2
+1
+	​
+
+×18×h=270
+
+9h = 270
+
+h = 30 cm
+
+⭐ CDS Short Trick
+
+Height = 2 × Area ÷ Base
+
+Q85 (Time & Work)
+
+A completes a work in 14 days and B in 21 days. Together they complete it in:
+
+A) 8.4 days
+
+B) 9.2 days
+
+C) 10 days
+
+D) 11 days
+
+✅ Answer: A) 8.4 days
+
+Explanation
+14+21
+14×21
+	​
+
+=
+35
+294
+	​
+
+=8.4
+
+⭐ CDS Short Trick
+
+a+b
+ab
+	​
+
+	​
+
+Q86 (Trigonometry)
+
+Evaluate
+
+cos30
+∘
+×sec30
+∘
+
+A) 0
+
+B) 1
+
+C) √3
+
+D) 2
+
+✅ Answer: B) 1
+
+Explanation
+
+secθ = 1/cosθ
+
+Hence,
+
+cos30° × sec30° = 1
+
+⭐ CDS Short Trick
+
+cos × sec = 1
+
+Q87 (Mensuration)
+
+The total surface area of a hemisphere of radius 10 cm is:
+
+A) 200π cm²
+
+B) 250π cm²
+
+C) 300π cm²
+
+D) 400π cm²
+
+✅ Answer: C) 300π cm²
+
+Explanation
+
+TSA = 3πr²
+
+= 3π × 100
+
+= 300π cm²
+
+⭐ CDS Short Trick
+
+Hemisphere:
+
+CSA = 2πr²
+TSA = 3πr²
+Q88 (Ratio & Proportion)
+
+The ratio of two numbers is 8 : 15. Their difference is 42. The larger number is:
+
+A) 84
+
+B) 90
+
+C) 96
+
+D) 105
+
+✅ Answer: B) 90
+
+Explanation
+
+Difference = 15 − 8 = 7
+
+One part = 42 ÷ 7 = 6
+
+Larger = 15 × 6 = 90
+
+⭐ CDS Short Trick
+
+Difference ÷ Difference of ratio = One part
+
+Q89 (Number System)
+
+How many numbers from 1 to 1000 are divisible by 25?
+
+A) 38
+
+B) 39
+
+C) 40
+
+D) 41
+
+✅ Answer: C) 40
+
+Explanation
+
+1000 ÷ 25 = 40
+
+⭐ CDS Short Trick
+
+Quotient = Number of multiples
+
+Q90 (Profit & Loss)
+
+An article is sold for ₹1840 at a 15% profit. Its cost price is:
+
+A) ₹1500
+
+B) ₹1550
+
+C) ₹1600
+
+D) ₹1650
+
+✅ Answer: C) ₹1600
+
+Explanation
+
+115% = 1840
+
+100% = 1840 × 100 ÷ 115 = 1600
+
+⭐ CDS Short Trick
+
+CP = SP × 100 ÷ (100 + Profit%)
+
+Q91 (Algebra)
+
+If
+
+12x−24=120
+
+then x equals:
+
+A) 10
+
+B) 11
+
+C) 12
+
+D) 13
+
+✅ Answer: C) 12
+
+Explanation
+
+12x = 144
+
+x = 12
+
+⭐ CDS Short Trick
+
+Transpose, then divide.
+
+Q92 (Geometry)
+
+The circumference of a circle is 154 cm. Using π = 22/7, the radius is:
+
+A) 21 cm
+
+B) 24.5 cm
+
+C) 28 cm
+
+D) 35 cm
+
+✅ Answer: B) 24.5 cm
+
+Explanation
+2×
+7
+22
+	​
+
+×r=154
+r=
+44
+154×7
+	​
+
+=24.5 cm
+
+⭐ CDS Short Trick
+
+Radius = Circumference ÷ 2π
+
+Q93 (Average)
+
+Average of the first 30 odd numbers is:
+
+A) 29
+
+B) 30
+
+C) 31
+
+D) 59
+
+✅ Answer: B) 30
+
+Explanation
+
+First odd number = 1
+
+30th odd number = 59
+
+Average = (1 + 59) ÷ 2 = 30
+
+⭐ CDS Short Trick
+
+Average of consecutive numbers = (First + Last) ÷ 2
+
+Q94 (Time & Distance)
+
+Convert 108 km/h into m/s.
+
+A) 28
+
+B) 30
+
+C) 32
+
+D) 35
+
+✅ Answer: B) 30 m/s
+
+Explanation
+
+108 × 5 ÷ 18 = 30
+
+⭐ CDS Short Trick
+
+km/h → m/s = × 5/18
+
+Q95 (Simple Interest)
+
+Find the SI on ₹25,000 for 2 years at 9% p.a.
+
+A) ₹4200
+
+B) ₹4300
+
+C) ₹4500
+
+D) ₹4600
+
+✅ Answer: C) ₹4500
+
+Explanation
+SI=
+100
+25000×9×2
+	​
+
+=4500
+
+⭐ CDS Short Trick
+
+Cancel zeros first.
+
+Q96 (Trigonometry)
+
+If
+
+tanθ=
+15
+8
+	​
+
+
+then
+
+secθ=
+
+A) 15/17
+
+B) 17/15
+
+C) 8/17
+
+D) 17/8
+
+✅ Answer: B) 17/15
+
+Explanation
+
+Using the 8–15–17 triangle,
+
+secθ=
+15
+17
+	​
+
+
+⭐ CDS Short Trick
+
+tan = Opposite/Adjacent
+
+Draw the triangle immediately.
+
+Q97 (Mensuration)
+
+The volume of a cone with radius 3 cm and height 12 cm is:
+
+A) 24π cm³
+
+B) 30π cm³
+
+C) 36π cm³
+
+D) 42π cm³
+
+✅ Answer: C) 36π cm³
+
+Explanation
+V=
+3
+1
+	​
+
+πr
+2
+h=
+3
+1
+	​
+
+π(9)(12)=36π
+
+⭐ CDS Short Trick
+
+Cone volume = ⅓ × πr²h
+
+Q98 (Statistics)
+
+Mode of
+
+12, 14, 14, 18, 18, 18, 20, 22
+
+A) 14
+
+B) 18
+
+C) 20
+
+D) 22
+
+✅ Answer: B) 18
+
+Explanation
+
+18 appears 3 times.
+
+⭐ CDS Short Trick
+
+Mode = Highest frequency
+
+Q99 (Compound Interest)
+
+₹20,000 is invested at 5% p.a. for 2 years (compounded annually). The amount is:
+
+A) ₹22,000
+
+B) ₹22,025
+
+C) ₹22,050
+
+D) ₹22,100
+
+✅ Answer: C) ₹22,050
+
+Explanation
+20000×1.05
+2
+=20000×1.1025=22050
+
+⭐ CDS Short Trick
+
+For 5% for 2 years, multiply by 1.1025
+
+Q100 (Mixed Arithmetic)
+
+A number is increased by 25% and then decreased by 25%. The overall effect is:
+
+A) No change
+
+B) 5% decrease
+
+C) 6.25% decrease
+
+D) 6.25% increase
+
+✅ Answer: C) 6.25% decrease
+
+Explanation
+
+Assume the number = 100
+
+100 → 125 → 93.75
+
+Net decrease = 6.25%
+
+⭐ CDS Short Trick
+
+For equal successive increase and decrease:
+
+Net Loss=
+100
+x
+2
+	​
+
+%
+	​
+
+
+For x = 25,
+
+100
+25
+2
+	​
+
+=6.25%
